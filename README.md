@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyaktg&label=Profile%20views&color=0e75b6&style=flat" alt="samyaktg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyaktg" alt="samyaktg" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=samyaktg&theme=juicyfresh&column=-1" alt="samyaktg's GitHub trophies" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on [Electrical Fault Model](https://github.com/Samyaktg/Electrical_Fault_Model)
 
